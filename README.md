@@ -59,3 +59,8 @@ $ git tag [tag_name]
 
 # タグをリモートへ反映
 $ git push --tags origin
+
+
+
+git branch --remote -d origin/develop
+git push --delete origin develop   
