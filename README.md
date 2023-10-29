@@ -2,8 +2,11 @@
 
 aaaaa
 bbbbb
-
 ccccc
+
+git add README.md
+git commit -m "-"
+
 
 ```
 echo "# Test01" >> README.md
